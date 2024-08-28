@@ -1,0 +1,123 @@
+.padre
+{
+  background-color: red;
+  padding: 20px;
+}
+.body
+{
+  background-color: grey;
+}
+.ci1
+{
+  background-color: blue;
+  height: 260px;
+  width: 260px;
+  padding: 20px;
+  border-radius: 350px;
+}
+.ci2
+{
+  background-color: green;
+  height: 220px;
+  width: 220px;
+  padding: 20px;
+  border-radius: 300px;
+}
+.ci3
+{
+  background-color: yellow;
+  height: 180px;
+  width: 180px;
+  padding: 20px;
+  border-radius: 250px;
+}
+.ci4
+{
+  background-color: blanchedalmond;
+  height: 140px;
+  width: 140px;
+  padding: 20px;
+  border-radius: 200px;
+}
+.ci5
+{
+  background-color: brown;
+  height: 100px;
+  width: 100px;
+  padding: 20px;
+  border-radius: 150px;
+}
+.ci6
+{
+  background-color: salmon;
+  height: 60px;
+  width: 60px;
+  padding: 20px;
+  border-radius: 100px;
+}
+.ci7
+{
+  background-color: darkblue;
+  height: 20px;
+  width: 20px;
+  padding: 20px;
+  border-radius: 50px;
+}
+
+.cir1
+{
+  background-color: mediumseagreen;
+  height: 260px;
+  width: 260px;
+  padding: 20px;
+  border-radius: 350px;
+}
+.cir2
+{
+  background-color: gold;
+  height: 220px;
+  width: 220px;
+  padding: 20px;
+  border-radius: 300px;
+}
+.cir3
+{
+  background-color: lightcoral;
+  height: 180px;
+  width: 180px;
+  padding: 20px;
+  border-radius: 250px;
+}
+.cir4
+{
+  background-color: maroon;
+  height: 140px;
+  width: 140px;
+  padding: 20px;
+  border-radius: 200px;
+}
+.cir5
+{
+  background-color: royalblue;
+  height: 100px;
+  width: 100px;
+  padding: 20px;
+  border-radius: 150px;
+}
+.cir6
+{
+  background-color: black;
+  height: 60px;
+  width: 60px;
+  padding: 20px;
+  border-radius: 100px;
+}
+.cir7
+{
+  background-color: blue;
+  height: 20px;
+  width: 20px;
+  padding: 20px;
+  border-radius: 50px;
+}
+
